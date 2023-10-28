@@ -15,6 +15,7 @@ const App=()=>{
            <TypingInput/>
           <div className="buttoncontainer">
           <Button name="10"/>
+          <Button name="change"/>
            <Button name="50"/>
            <Button name="80"/>
            <Button name="100"/>
